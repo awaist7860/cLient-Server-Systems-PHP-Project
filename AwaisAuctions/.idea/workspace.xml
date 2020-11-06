@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03f70a1-71eb-48aa-90c6-753c3f66a688" name="Default Changelist" comment="" />
+    <list default="true" id="a03f70a1-71eb-48aa-90c6-753c3f66a688" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/template/header.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/template/header.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/my-Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/my-Styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,14 +40,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jWso4w6EkvfeCHzAeVDxTwCOOg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -58,11 +87,23 @@
       <workItem from="1604161158639" duration="13000" />
       <workItem from="1604670197408" duration="311000" />
       <workItem from="1604670773696" duration="722000" />
+      <workItem from="1604671758695" duration="2013000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="-1300" y="126" key="#PHP" timestamp="1603932069852">
@@ -81,32 +122,32 @@
     <state x="-1165" y="215" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604068024788" />
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@0.0.2560.1040" timestamp="1604068171788" />
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603933685817" />
-    <state width="2505" height="266" key="GridCell.Tab.0.bottom" timestamp="1604671502375">
+    <state width="2505" height="266" key="GridCell.Tab.0.bottom" timestamp="1604673789955">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1018" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
-    <state width="2505" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604671502375" />
+    <state width="2505" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604673789955" />
     <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="2505" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
-    <state width="2505" height="266" key="GridCell.Tab.0.center" timestamp="1604671502375">
+    <state width="2505" height="266" key="GridCell.Tab.0.center" timestamp="1604673789955">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1018" height="233" key="GridCell.Tab.0.center/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
-    <state width="2505" height="266" key="GridCell.Tab.0.center/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604671502375" />
+    <state width="2505" height="266" key="GridCell.Tab.0.center/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604673789955" />
     <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="2505" height="267" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
-    <state width="2505" height="266" key="GridCell.Tab.0.left" timestamp="1604671502375">
+    <state width="2505" height="266" key="GridCell.Tab.0.left" timestamp="1604673789955">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1018" height="233" key="GridCell.Tab.0.left/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
-    <state width="2505" height="266" key="GridCell.Tab.0.left/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604671502375" />
+    <state width="2505" height="266" key="GridCell.Tab.0.left/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604673789955" />
     <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="2505" height="267" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
-    <state width="2505" height="266" key="GridCell.Tab.0.right" timestamp="1604671502375">
+    <state width="2505" height="266" key="GridCell.Tab.0.right" timestamp="1604673789955">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1018" height="233" key="GridCell.Tab.0.right/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
-    <state width="2505" height="266" key="GridCell.Tab.0.right/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604671502375" />
+    <state width="2505" height="266" key="GridCell.Tab.0.right/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604673789955" />
     <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="2505" height="267" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
     <state x="-1151" y="426" key="NewPhpFileDialog" timestamp="1603932347177">
