@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a03f70a1-71eb-48aa-90c6-753c3f66a688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/AuctionData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/AuctionDataSet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/AuctionExtendedData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/AuctionExtendedDataSet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Database.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/AuctionData.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AuctionData.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/AuctionDataSet.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AuctionDataSet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/AuctionExtendedData.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AuctionExtendedData.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/AuctionExtendedDataSet.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AuctionExtendedDataSet.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <workItem from="1604671758695" duration="2013000" />
       <workItem from="1604674236395" duration="2642000" />
       <workItem from="1604696851154" duration="2480000" />
-      <workItem from="1604788684120" duration="1519000" />
+      <workItem from="1604788684120" duration="2841000" />
     </task>
     <servers />
   </component>
