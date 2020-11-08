@@ -1,7 +1,7 @@
 <?php
 
-require_once ('Models/Database.php');
-require_once ('Models/AuctionData.php');
+require_once (__DIR__ . '/Database.php');
+require_once (__DIR__ . '/AuctionData.php');
 
 class AuctionDataSet
 {

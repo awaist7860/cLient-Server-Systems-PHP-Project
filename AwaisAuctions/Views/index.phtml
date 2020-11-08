@@ -2,6 +2,8 @@
 <?php require ('controllers/users.php')?>
 
 
+
+
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
         <table class="table table-hover">
             <thead>
@@ -13,15 +15,9 @@
 
             <?php
 
-
-
-            //foreach ($view->AuctionDataSet as $AuctionData){
-                //echo '<tr> <td>' .AuctionData,getUserId();
-            //}
-
-
-
-            //echo getDatSetAndSqlQuery();
+            foreach ($AuctionDataSet1 as $Key => $AuctionData){
+                echo '<tr> <td>' . $AuctionData->getUserId() . '</td> <td>' . $AuctionData->getUsername() ;
+            }
             ?>
             </tbody>
         </table>
