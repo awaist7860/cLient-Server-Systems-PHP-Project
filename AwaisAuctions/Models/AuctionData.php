@@ -3,7 +3,7 @@
 
 class AuctionData
 {
-    protected $_id, $_firstName, $_userName, $_passwords;
+    protected $_id,  $_userName, $_passwords;
 
     public function __construct($dbRow) {
         $this->_id = $dbRow['id'];

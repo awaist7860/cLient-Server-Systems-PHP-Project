@@ -23,5 +23,15 @@ class AuctionDataSet
             $dataSet[] = new AuctionData($row);
         }
         return $dataSet;
+        //return $sqlQuery;
+
+        //echo  $dataSet;
     }
+
+    public function getDatSetAndSqlQuery(){
+        $this->fetchAllStudents();
+    }
+
+
+
 }
