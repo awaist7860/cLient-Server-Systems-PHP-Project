@@ -52,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Help Work/Presentations/Client Server Systems/SISv1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -91,6 +91,7 @@
       <workItem from="1604788684120" duration="4882000" />
       <workItem from="1604849380986" duration="16990000" />
       <workItem from="1604933809116" duration="4076000" />
+      <workItem from="1604966757970" duration="120000" />
     </task>
     <servers />
   </component>
