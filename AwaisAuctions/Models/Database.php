@@ -22,11 +22,24 @@ class Database {
         $dbName = 'sgb849';
 
         //Local DB Details
-        //$username ='sgb849';
+        //$username ='root';
         //$password = 'f1m9mHBhjktiNqf';//Old password
-        //$password = 'f1m9mHBhjktiNqf';
-        //$host = 'poseidon.salford.ac.uk';
-        //$dbName = 'sgb849';
+        //$password = '786786';
+        //$host = '127.0.0.1';
+        //$dbName = 'Local root';
+
+        //$host="127.0.0.1";
+        //$port=3306;
+        //$socket="";
+        //$user="root";
+        //$password="786786";
+        $dbname="";
+
+        //$con = new mysqli($host, $user, $password, $dbname, $port, $socket)
+        //or die ('Could not connect to the database server' . mysqli_connect_error());
+
+//$con->close();
+
 
         if(self::$_dbInstance === null) { //checks if the PDO exists
             // creates new instance if not, sending in connection info
