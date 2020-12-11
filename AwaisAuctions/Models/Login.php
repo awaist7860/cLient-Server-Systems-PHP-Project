@@ -1,7 +1,6 @@
 <?php
 require_once 'Database.php';
 require_once '../controllers/Login.php';
-require_once '../Views/template/header.phtml';
 
 
 class Login
@@ -17,14 +16,9 @@ class Login
 
 
 
-    //public function login($email, $psw)
-        public function login()
+    public function login($email, $psw)
     {
-        $Username = $_POST['username'];
-        $Password = $_POST['password'];
-        echo $_REQUEST['username'];
-        echo $_REQUEST['password'];
-        $UsernameQuery = 'SELECT username FROM users WHERE username = $Username AND password = $Password';
+        $UsernameQuery = 'SELECT username FROM users WHERE username = "Awais"';
 
         return $UsernameQuery;
 
