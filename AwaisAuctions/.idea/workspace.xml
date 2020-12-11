@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a03f70a1-71eb-48aa-90c6-753c3f66a688" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Models/AuctionData.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AuctionData.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/Login.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/LoginPage.php" beforeDir="false" />
@@ -28,6 +29,8 @@
       <change beforePath="$PROJECT_DIR$/Views/index.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/index.phtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/Login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users.php" afterDir="false" />
+=======
+>>>>>>> parent of 3a58755... Login Button Half Works
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Models" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../xampp/php/php.exe" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -107,7 +114,12 @@
       <workItem from="1604788684120" duration="4882000" />
       <workItem from="1604849380986" duration="16990000" />
       <workItem from="1604933809116" duration="4076000" />
+<<<<<<< HEAD
+      <workItem from="1604976862280" duration="1761000" />
+      <workItem from="1604979256884" duration="678000" />
+=======
       <workItem from="1604963029548" duration="1480000" />
+<<<<<<< HEAD
       <workItem from="1607258909884" duration="7570000" />
       <workItem from="1607335260097" duration="8000" />
       <workItem from="1607335328354" duration="2357000" />
@@ -118,6 +130,9 @@
       <workItem from="1607697196016" duration="1191000" />
       <workItem from="1607700219828" duration="5348000" />
       <workItem from="1607720975609" duration="1076000" />
+=======
+>>>>>>> 7c83cb0c7e3cd8887c40d660531e50462e1b8af7
+>>>>>>> parent of 3a58755... Login Button Half Works
     </task>
     <servers />
   </component>
@@ -137,17 +152,28 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="990" y="301" key="#Notifications" timestamp="1607721953923">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="990" y="301" key="#Notifications/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607721953923" />
     <state x="-1300" y="126" key="#PHP" timestamp="1603932069852">
       <screen x="-1920" y="0" width="1920" height="1040" />
+=======
+    <state x="314" y="26" key="#CLI_Interpreters" timestamp="1604977299719">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     </state>
+    <state x="314" y="26" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1604977299719" />
+    <state x="441" y="14" key="#PHP" timestamp="1604977304193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="14" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1604977304193" />
     <state x="-1300" y="126" key="#PHP/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603932069852" />
-    <state x="-1510" y="165" width="1099" height="803" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603932230253">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="292" y="116" width="782" height="606" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604977308914">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="292" y="116" width="782" height="606" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604977308914" />
     <state x="-1510" y="165" width="1099" height="803" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603932230253" />
     <state x="547" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603932218532" />
     <state x="1015" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604936040052">
@@ -158,18 +184,27 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="398" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604866091725" />
+<<<<<<< HEAD
     <state x="304" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607721198654">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="304" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607721198654" />
     <state x="304" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607434317783" />
+=======
+>>>>>>> parent of 3a58755... Login Button Half Works
     <state x="337" y="343" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604865993392">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="337" y="343" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604865993392" />
+<<<<<<< HEAD
     <state x="1007" y="215" width="546" height="729" key="FileChooserDialogImpl" timestamp="1607434369713">
       <screen x="0" y="0" width="2560" height="1040" />
+=======
+    <state x="537" y="151" width="313" height="511" key="FileChooserDialogImpl" timestamp="1604977292522">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     </state>
+    <state x="537" y="151" width="313" height="511" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604977292522" />
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604865744663" />
     <state x="-655" y="389" width="546" height="729" key="FileChooserDialogImpl/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670490800" />
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604699170663" />
@@ -177,64 +212,94 @@
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@0.0.2560.1040" timestamp="1604068171788" />
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.1440.860/-1080.0.1080.1880@0.0.2560.1040" timestamp="1604789241406" />
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603933685817" />
+<<<<<<< HEAD
     <state x="1007" y="215" key="FileChooserDialogImpl/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607434369713" />
     <state width="2505" height="154" key="GridCell.Tab.0.bottom" timestamp="1607722062951">
       <screen x="0" y="0" width="2560" height="1040" />
+=======
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604978785987">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604978785987" />
     <state width="1229" height="23" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604941169585" />
     <state width="1018" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
     <state width="2505" height="303" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604712510496" />
     <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="1222" height="59" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1440.860/-1080.0.1080.1880@0.0.2560.1040" timestamp="1604796945237" />
+<<<<<<< HEAD
     <state width="2505" height="154" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607722062951" />
     <state width="2505" height="298" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607696302674" />
     <state width="2505" height="225" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1607287346464" />
     <state width="2505" height="154" key="GridCell.Tab.0.center" timestamp="1607722062951">
       <screen x="0" y="0" width="2560" height="1040" />
+=======
+    <state width="2505" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604978785986">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604978785986" />
     <state width="1229" height="23" key="GridCell.Tab.0.center/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604941169585" />
     <state width="1018" height="233" key="GridCell.Tab.0.center/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
     <state width="2505" height="303" key="GridCell.Tab.0.center/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604712510496" />
     <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="1222" height="59" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1440.860/-1080.0.1080.1880@0.0.2560.1040" timestamp="1604796945237" />
+<<<<<<< HEAD
     <state width="2505" height="154" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607722062951" />
     <state width="2505" height="298" key="GridCell.Tab.0.center/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607696302674" />
     <state width="2505" height="225" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1607287346464" />
     <state width="2505" height="154" key="GridCell.Tab.0.left" timestamp="1607722062951">
       <screen x="0" y="0" width="2560" height="1040" />
+=======
+    <state width="2505" height="267" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604978785986">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604978785986" />
     <state width="1229" height="23" key="GridCell.Tab.0.left/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604941169585" />
     <state width="1018" height="233" key="GridCell.Tab.0.left/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
     <state width="2505" height="303" key="GridCell.Tab.0.left/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604712510496" />
     <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="1222" height="59" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1440.860/-1080.0.1080.1880@0.0.2560.1040" timestamp="1604796945236" />
+<<<<<<< HEAD
     <state width="2505" height="154" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607722062951" />
     <state width="2505" height="298" key="GridCell.Tab.0.left/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607696302674" />
     <state width="2505" height="225" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1607287346464" />
     <state width="2505" height="154" key="GridCell.Tab.0.right" timestamp="1607722062951">
       <screen x="0" y="0" width="2560" height="1040" />
+=======
+    <state width="2505" height="267" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604978785986">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> parent of 3a58755... Login Button Half Works
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604978785986" />
     <state width="1229" height="23" key="GridCell.Tab.0.right/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604941169585" />
     <state width="1018" height="233" key="GridCell.Tab.0.right/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@-1080.0.1080.1880" timestamp="1604670516213" />
     <state width="2505" height="303" key="GridCell.Tab.0.right/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604712510496" />
     <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040/2560.0.1440.860@-1920.0.1920.1040" timestamp="1604066056470" />
     <state width="1222" height="59" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1440.860/-1080.0.1080.1880@0.0.2560.1040" timestamp="1604796945237" />
+<<<<<<< HEAD
     <state width="2505" height="154" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607722062951" />
     <state width="2505" height="298" key="GridCell.Tab.0.right/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607696302674" />
     <state width="2505" height="225" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1607287346464" />
     <state x="697" y="188" key="NewPhpClassDialog" timestamp="1607265424857">
+=======
+    <state width="2505" height="267" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@0.0.2560.1040" timestamp="1603935661932" />
+    <state x="697" y="188" key="NewPhpClassDialog" timestamp="1604936047948">
+>>>>>>> parent of 3a58755... Login Button Half Works
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="697" y="188" key="NewPhpClassDialog/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604936047948" />
     <state x="697" y="188" key="NewPhpClassDialog/0.0.2560.1040/2560.0.1440.860/-1080.0.1080.1880@0.0.2560.1040" timestamp="1604789990007" />
-    <state x="697" y="188" key="NewPhpClassDialog/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607265424857" />
-    <state x="1025" y="426" key="NewPhpFileDialog" timestamp="1607265403880">
+    <state x="1025" y="426" key="NewPhpFileDialog" timestamp="1604937154259">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1025" y="426" key="NewPhpFileDialog/0.0.2560.1040/-1080.-557.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604937154259" />
     <state x="1025" y="426" key="NewPhpFileDialog/0.0.2560.1040/-1080.0.1080.1880/2560.0.1440.860@0.0.2560.1040" timestamp="1604674245991" />
     <state x="-1151" y="426" key="NewPhpFileDialog/0.0.2560.1040/2560.0.1440.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603932347177" />
-    <state x="1025" y="426" key="NewPhpFileDialog/0.0.2560.1040/2560.170.1440.860@0.0.2560.1040" timestamp="1607265403880" />
     <state x="31" y="82" key="SettingsEditor" timestamp="1604963258286">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
