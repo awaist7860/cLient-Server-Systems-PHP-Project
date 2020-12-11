@@ -1,6 +1,5 @@
 <?php
 
-
 class AuctionData
 {
     protected $_id,  $_userName, $_passwords;
@@ -9,7 +8,6 @@ class AuctionData
         $this->_id = $dbRow['id'];
         $this->_userName = $dbRow['username'];
         $this->_passwords = $dbRow['password'];
-
     }
 
     public function getUserId() {
