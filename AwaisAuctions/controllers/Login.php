@@ -1,5 +1,6 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 //
 ////session_start();
 //
@@ -108,6 +109,8 @@
 //
 //
 =======
+=======
+>>>>>>> parent of 3a58755... Login Button Half Works
 include_once '../Models/Login.php';
 include_once '../Views/template/header.phtml';
 
@@ -128,4 +131,7 @@ else
 {
     echo "Wrong details!, please retry!";
 }
+<<<<<<< HEAD
+>>>>>>> parent of 3a58755... Login Button Half Works
+=======
 >>>>>>> parent of 3a58755... Login Button Half Works
