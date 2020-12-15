@@ -1,24 +1,87 @@
-<?php session_start(); ?>
-<?php require('template/header.phtml') ?>
-<?php require ('controllers/users.php')?>
+<?php //session_start(); ?>
+<?php require_once('template/header.phtml') ?>
+
+<?php //require_once ('controllers/users.php')?>
+<?php require_once ('controllers/Search.php')?>
+<?php require ('Models/getSpecificSearchItem.php');
+require_once ('Models/SearchDataset.php');?>
 
 
+    <div class="container" style="color: #1b1e21">
+        <div class="row">
+            <?php
+            foreach ($SearchDataSet1 as $Key => $Search){ ?>
+
+                <div class="col-md-3 col-md-6">
+                    <div class="card text-center">
+                        <div class="card-block">
+                            <h4>Lot Number <?php echo $Search->getItemID()?></h4>
+                        </div>
+                        <div class="card-title">
+                            <h4><?php echo $Search->getItemTitle()?></h4>
+                        </div>
+                        <div class="card-text">
+                            <p><?php echo $Search->getItemDes()?></p>
+                        </div>
+                        <div>
+                            <<?php echo '<img src="images/' . $Search->getItemImage() . ' " alt="" style= width: 258px; height:120px; class="img-fluid" />' ?>
+                        </div>
+                    </div>
+                </div>
+
+           <?php }
+            ?>
+        </div>
+    </div>
 
 
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
-        <table class="table table-hover">
+        <!--<table class="table table-hover">
             <thead>
             <tr>
-                <th>UserId</th><th>Username</th><th>Password</th>
+                <th>Username</th><th>Password</th>
+                <th>ItemTitle</th>
             </tr>
             </thead>
             <tbody>
 
             <?php
+//
+//            //$var = $_POST['searchTextBox']; echo $var;
+//
+//            $view = new stdClass();
+//            $view->pageTitle ='Results';
+//            //$username = "";
+//            $view->message = "";
+//
+//            //$SpecificSearchDataSet1 = getSpecificSearchDataSet1();
+//            //$searchItem = (new getSpecificSearchItem())->getSearchItem();
+//
+            foreach ($SearchDataSet1 as $Key => $Search){
+                echo '<tr> <td>' . $Search->getItemTitle();
 
-            foreach ($AuctionDataSet1 as $Key => $AuctionData){
-                echo '<tr> <td>' . $AuctionData->getUserId() . '</td> <td>' . $AuctionData->getUsername() . '</td> <td>' . $AuctionData->getPassword();
             }
+//
+//
+//            $SpecificSearchDataSet = "";
+//
+//            //if (isset($_POST['Results']))
+//            //{
+//                $itemName = $_POST['searchTextBox'];
+//                $SearchDataSet = new SearchDataset();
+//                $SpecificSearchDataSet = (new SearchDataset())->getItemTitle($itemName);
+//                foreach ($SpecificSearchDataSet as $Key => $Search) {
+//                    echo '<tr> <td>' . $Search->getItemTitle();
+//                }
+//
+//            //}
+//            //if (isset($SearchDataSet)) {
+//
+//            //}
+////            while($row = )
+////            {
+////
+////            }
             ?>
             </tbody>
         </table>
